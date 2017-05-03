@@ -15,7 +15,7 @@ HTML
 CSS
 
 ```css
-@import url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Web/5e08423b/stylesheet/NotoSerif-Web.css);
+@import url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Web/1d04ede6/stylesheet/NotoSerif-Web.css);
 ```
 
 사용 예
