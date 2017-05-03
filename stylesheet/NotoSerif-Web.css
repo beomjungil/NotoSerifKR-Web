@@ -8,7 +8,7 @@
     font-family: 'Noto Serif KR';
     font-style: normal;
     font-weight: 300;
-    src: local('Noto Serif CJK KR'), local('Source Han Serif K'), local('Source Han Serif'), local('Noto Serif CJK'), local('Noto Serif'), url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Katter/7392ea08/fonts/NotoSerifCJKkr-Regular-subset.woff) format('woff'),url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Katter/7392ea08/fonts/NotoSerifCJKkr-Regular-subset.woff2) format('woff2'), url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Katter/7392ea08/fonts/NotoSerifCJKkr-Regular-subset.otf) format('otf'),        url('https://cdn.rawgit.com/kattergil/NotoSerifKR-Web/1d04ede6/fonts/NotoSerifCJKkr-Regular-subset.ttf')  format('truetype'), /* Safari, Android, iOS */;
+    src: local('Noto Serif CJK KR'), local('Source Han Serif K'), local('Source Han Serif'), local('Noto Serif CJK'), local('Noto Serif'), url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Katter/7392ea08/fonts/NotoSerifCJKkr-Regular-subset.woff) format('woff'),url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Katter/7392ea08/fonts/NotoSerifCJKkr-Regular-subset.woff2) format('woff2'), url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Katter/7392ea08/fonts/NotoSerifCJKkr-Regular-subset.otf) format('otf'),        url(https://cdn.rawgit.com/kattergil/NotoSerifKR-Web/1d04ede6/fonts/NotoSerifCJKkr-Regular-subset.ttf)  format('truetype'), /* Safari, Android, iOS */;
 }
 @font-face {
     font-family: 'Noto Serif KR';
